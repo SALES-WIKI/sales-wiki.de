@@ -155,6 +155,7 @@ fieldset legend {
   cursor: pointer;
   text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
   padding: 0.75rem 0;
+  margin: 0;
 }
 
 .multiswitch .slide-container a {
